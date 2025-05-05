@@ -1,8 +1,7 @@
 ⚙️ 2025 California State University Fullerton CPSC 249-01 (Applied AI) NLP LLM Assignment
 
 * You need `python 3.13` to run this program <br>
-* Please enter `pip freeze > requirements.txt` on terminal before you start to contribute
-
+* Please document all the librarlies we need on `requirements.txt`
 ```
 python3.13 -m venv .venv      # Create new virtual env
 source .venv/bin/activate   # .venv\Scripts\activate for Windows
